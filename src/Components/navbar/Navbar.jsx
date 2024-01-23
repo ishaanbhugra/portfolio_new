@@ -14,7 +14,7 @@ const Navbar = () => {
           transition={{ duration: 0.5 }}
           style={{marginLeft:"14px"}}
         >
-          Welcome To MY PORTFOLIO !
+          Welcome To MY PORTFOLIO ! &emsp; <u>(Last Updated : 2023)</u>
         </motion.span>
         <div className="social">
           <a href="https://www.linkedin.com/in/ishaan-bhugra-a1b563213/">
